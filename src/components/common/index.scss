@@ -7,3 +7,18 @@
   justify-content: center;
   align-items: center;
 }
+
+a {
+  color: inherit;
+  cursor: pointer;
+}
+button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+textarea {
+  resize: none;
+}
